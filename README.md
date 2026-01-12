@@ -1,5 +1,28 @@
-#cricket
-Cricket is one of the most popular sports in the world, especially in countries like India, England, Australia, and Pakistan. It is a game played between two teams, each having eleven players. Cricket teaches us discipline, teamwork, and sportsmanship.
-The game is played with a bat and a ball on a large field. One team bats to score runs while the other team bowls and fields to stop the runs and take wickets. There are different formats of cricket such as Test matches, One Day Internationals, and T20 matches, which make the game exciting and enjoyable.
-Cricket is not only a game but also a passion for millions of people. Legendary players like Sachin Tendulkar, MS Dhoni, Virat Kohli, and Kapil Dev have inspired young generations. Playing cricket keeps us physically fit and mentally active.
-In conclusion, cricket brings people together, promotes unity, and gives us moments of joy and pride. That is why cricket is loved by people of all ages.
+Green IT (Green Information Technology)
+Green IT ka matlab hai IT resources (computers, servers, networks, data centers) ka use is tarah se karna ki environment ko kam se kam nuksaan ho aur energy ki bachat ho.
+Green IT ke main points:
+Energy Efficiency – Kam power consume karne wale computers, laptops aur servers ka use.
+E-waste Reduction – Purane electronic devices ko reuse, refurbish aur recycle karna.
+Virtualization & Cloud Computing – Kam hardware use karke zyada kaam karna.
+Paperless Work – Digital documents, emails, online forms ka use.
+Eco-friendly Hardware – Low toxic materials aur energy-star certified devices.
+Green IT ke benefits:
+🌱 Environment protection
+⚡ Electricity bill kam hota hai
+♻️ E-waste kam hota hai
+💰 Long-term cost saving
+Agar chaho to main exam-ready short answer, diagram, ya examples ke sath bhi explain kar sakta hoon 😊
+Green IT (Green Information Technology)
+Green IT ka matlab hai IT resources (computers, servers, networks, data centers) ka use is tarah karna ki energy kam consume ho, cost kam ho aur environment ko nuksaan na ho 🌱
+Green IT ke main points:
+Energy-efficient hardware ka use (low power PCs, LED monitors)
+Virtualization & cloud computing se servers kam use karna
+Paperless work (emails, digital documents)
+E-waste recycling (old computers, mobiles ka proper recycle)
+Power management (sleep mode, auto shutdown)
+Benefits:
+Bijli ki bachat ⚡
+Cost kam hoti hai 💰
+Pollution aur carbon footprint kam hota hai 🌍
+Environment friendly IT system
+Agar chaho to main exam-ready short answer, diagram idea, ya real-life examples bhi de sakta hoon.
